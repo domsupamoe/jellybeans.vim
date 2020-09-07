@@ -455,7 +455,7 @@ call s:X("TabLineSel","000000","f0f0f0","italic,bold",s:termBlack,"White")
 call s:X("Pmenu","ffffff","606060","","White",s:termBlack)
 call s:X("PmenuSel","101010","eeeeee","",s:termBlack,"White")
 
-call s:X("Visual","","404040","","",s:termBlack)
+call s:X("Visual","","5c5c5c","","",s:termBlack)
 call s:X("Cursor",s:background_color,"b0d0f0","","","")
 
 call s:X("LineNr","605958",s:background_color,"NONE",s:termBlack,"")
@@ -496,7 +496,7 @@ call s:X("NonText","606060",s:background_color,"",s:termBlack,"")
 
 call s:X("SpecialKey","444444","1c1c1c","",s:termBlack,"")
 
-call s:X("Search","f0a0c0","302028","underline","Magenta","")
+call s:X("Search","","5c5c5c","","","")
 
 call s:X("Directory","dad085","","","Yellow","")
 call s:X("ErrorMsg","","902020","","","DarkRed")
